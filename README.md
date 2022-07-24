@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Elias
 
-- 🔭 Hoje busco uma oportunidade em Front ou Back-end
+- 🔭 Hoje busco uma oportunidade em Back-end
 - 🌱 Estudando Java e SQL
 - ✉️ Contate-me no e-mail: devgabrielsilva8@gmail.com
 - 😄 Pronouns: ele/dele
