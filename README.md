@@ -1,9 +1,8 @@
 ### Olá! Eu sou Gabriel Elias
 
-- 🔭 Hoje busco uma oportunidade em Back-end
-- 🌱 Estudando Java e SQL
-- ✉️ Contate-me no e-mail: devgabrielsilva8@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Data Engineering Student
+- 🌱 Focus on Python, data technology, and cloud
+- ✉️ e-mail: devgabrielsilva8@gmail.com
 
 <div align="center">
   <a href="https://github.com/gabrielelias03">
